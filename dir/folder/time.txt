@@ -1,0 +1,2 @@
+
+Time is function UTC() { [native code] }
